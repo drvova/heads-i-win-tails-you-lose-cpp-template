@@ -57,3 +57,13 @@ CMakeUserPresets.json
 # End of https://www.toptal.com/developers/gitignore/api/c++,cmake
 
 build/
+
+# Experiment outputs
+experiment_results.csv
+experiment_analysis.png
+visualize.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
